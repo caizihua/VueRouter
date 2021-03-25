@@ -11,7 +11,7 @@
     <router-link to="/about" tag="button" replace>关于</router-link> -->
     <button @click="homeClick">首页</button>
     <button @click="aboutClick">关于</button>
-    <h3>some change</h3>
+    <h3></h3>
   </div>
 </template>
 
